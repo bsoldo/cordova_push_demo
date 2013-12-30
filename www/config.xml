@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.inge_mark.cordova.push_demo" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+<widget id="com.ingemark.cordova.pushdemo" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
     <name>PushDemo</name>
     <description>
         A sample Apache Cordova application that responds to the deviceready event.
@@ -12,8 +12,8 @@
 
     <preference name="com.urbanairship.production_app_key" value="Your production app key" />
 	<preference name="com.urbanairship.production_app_secret" value="Your production app secret" />
-	<preference name="com.urbanairship.development_app_key" value="hidden" />
-	<preference name="com.urbanairship.development_app_secret" value="hidden" />
+	<preference name="com.urbanairship.development_app_key" value="" />
+	<preference name="com.urbanairship.development_app_secret" value="-nZMQ" />
 	<preference name="com.urbanairship.in_production" value="false" />
-	<preference name="com.urbanairship.gcm_sender" value="hidden" />
+	<preference name="com.urbanairship.gcm_sender" value="" />
 </widget>
