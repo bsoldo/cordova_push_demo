@@ -1,0 +1,19 @@
+/home/bruno/Dev/android/workspace/PushDemoCordova/platforms/android/bin/classes.dex : \
+/home/bruno/Dev/android/workspace/PushDemoCordova/platforms/android/bin/classes/com/inge_mark/cordova/push_demo/BuildConfig.class \
+/home/bruno/Dev/android/workspace/PushDemoCordova/platforms/android/bin/classes/com/inge_mark/cordova/push_demo/R$attr.class \
+/home/bruno/Dev/android/workspace/PushDemoCordova/platforms/android/bin/classes/com/inge_mark/cordova/push_demo/R$string.class \
+/home/bruno/Dev/android/workspace/PushDemoCordova/platforms/android/bin/classes/com/inge_mark/cordova/push_demo/R$xml.class \
+/home/bruno/Dev/android/workspace/PushDemoCordova/platforms/android/bin/classes/com/inge_mark/cordova/push_demo/Manifest$permission.class \
+/home/bruno/Dev/android/workspace/PushDemoCordova/platforms/android/bin/classes/com/inge_mark/cordova/push_demo/Manifest.class \
+/home/bruno/Dev/android/workspace/PushDemoCordova/platforms/android/bin/classes/com/inge_mark/cordova/push_demo/PushDemo.class \
+/home/bruno/Dev/android/workspace/PushDemoCordova/platforms/android/bin/classes/com/inge_mark/cordova/push_demo/R.class \
+/home/bruno/Dev/android/workspace/PushDemoCordova/platforms/android/bin/classes/com/inge_mark/cordova/push_demo/R$drawable.class \
+/home/bruno/Dev/android/workspace/PushDemoCordova/platforms/android/bin/classes/com/urbanairship/phonegap/PushAutopilot.class \
+/home/bruno/Dev/android/workspace/PushDemoCordova/platforms/android/bin/classes/com/urbanairship/phonegap/PushNotificationPlugin$1.class \
+/home/bruno/Dev/android/workspace/PushDemoCordova/platforms/android/bin/classes/com/urbanairship/phonegap/PushReceiver.class \
+/home/bruno/Dev/android/workspace/PushDemoCordova/platforms/android/bin/classes/com/urbanairship/phonegap/PushAutopilot$AirshipOptions.class \
+/home/bruno/Dev/android/workspace/PushDemoCordova/platforms/android/bin/classes/com/urbanairship/phonegap/PushNotificationPlugin.class \
+/home/bruno/Dev/android/workspace/PushDemoCordova/platforms/android/bin/classes/org/apache/cordova/device/Device$1.class \
+/home/bruno/Dev/android/workspace/PushDemoCordova/platforms/android/bin/classes/org/apache/cordova/device/Device.class \
+/home/bruno/Dev/android/workspace/PushDemoCordova/platforms/android/bin/dexedLibs/classes-24048df754d775cdfad2116720ffc09c.jar \
+/home/bruno/Dev/android/workspace/PushDemoCordova/platforms/android/bin/dexedLibs/urbanairship-lib-3.0.0-1c6d6ffbad3c8d40cef03a606a49b757.jar \
