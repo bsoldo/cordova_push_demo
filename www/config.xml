@@ -13,7 +13,7 @@
     <preference name="com.urbanairship.production_app_key" value="Your production app key" />
 	<preference name="com.urbanairship.production_app_secret" value="Your production app secret" />
 	<preference name="com.urbanairship.development_app_key" value="" />
-	<preference name="com.urbanairship.development_app_secret" value="-nZMQ" />
+	<preference name="com.urbanairship.development_app_secret" value="" />
 	<preference name="com.urbanairship.in_production" value="false" />
 	<preference name="com.urbanairship.gcm_sender" value="" />
 </widget>
